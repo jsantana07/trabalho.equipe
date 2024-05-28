@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2024-05-27T14:33:50.891Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="C5JCVSglq3MdphkHfFId" version="24.4.9" type="google">
+  <diagram name="Página-1" id="2ehf4UmEFp3VSj6_MM3V">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IXZfG4xnG5C_V5Tnvmex-2" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;arcSize=18;strokeColor=#050505;" vertex="1" parent="1">
+          <mxGeometry x="260" y="70" width="300" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="IXZfG4xnG5C_V5Tnvmex-7" value="CADASTRO&lt;div&gt;&amp;nbsp;MATERIA-PRIMA&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="280.5" y="80" width="269" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IXZfG4xnG5C_V5Tnvmex-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="190" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IXZfG4xnG5C_V5Tnvmex-14" value="Nome" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280.5" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IXZfG4xnG5C_V5Tnvmex-15" value="Telefone" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IXZfG4xnG5C_V5Tnvmex-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="260" width="249.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IXZfG4xnG5C_V5Tnvmex-17" value="Quantidade" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IXZfG4xnG5C_V5Tnvmex-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="335" width="249.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IXZfG4xnG5C_V5Tnvmex-20" value="endereço" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IXZfG4xnG5C_V5Tnvmex-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="400" width="249.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IXZfG4xnG5C_V5Tnvmex-23" value="Enviar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="349.75" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

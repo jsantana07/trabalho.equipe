@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net" modified="2024-05-27T14:29:21.630Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="4gCXpVIlkcpOkf6u9QLZ" version="24.4.9" type="google">
+  <diagram name="Página-1" id="gqpN8zFhYD_opWSwKF0-">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="00TS4jX-JS3ZsfTgcpw7-1" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="249" y="80" width="330" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="00TS4jX-JS3ZsfTgcpw7-6" value="Cadastro transportadora" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="266" y="130" width="296" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="Nome:" placeholders="1" name="Variable" id="00TS4jX-JS3ZsfTgcpw7-7">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="266" y="210" width="50" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="00TS4jX-JS3ZsfTgcpw7-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="266" y="240" width="295" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="Telefone:" placeholders="1" name="Variable" id="00TS4jX-JS3ZsfTgcpw7-9">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="263.75" y="290" width="62.5" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="00TS4jX-JS3ZsfTgcpw7-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="266" y="320" width="295" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="00TS4jX-JS3ZsfTgcpw7-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="263.75" y="400" width="295" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="Endereço:" placeholders="1" name="Variable" id="00TS4jX-JS3ZsfTgcpw7-17">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="255" y="375" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="00TS4jX-JS3ZsfTgcpw7-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="263.75" y="480" width="295" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="CNPJ:" placeholders="1" name="Variable" id="00TS4jX-JS3ZsfTgcpw7-22">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="266" y="460" width="39.75" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="00TS4jX-JS3ZsfTgcpw7-26" value="ENVIAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="338.25" y="585" width="146" height="55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
