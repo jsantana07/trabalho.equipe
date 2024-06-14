@@ -1,0 +1,71 @@
+<mxfile host="app.diagrams.net" modified="2024-06-10T14:26:22.352Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="LZ8m2oAjFOEJq63IyIBA" version="24.5.2" type="google">
+  <diagram name="Página-1" id="MxG1yZmTdDrJlxnLAyUV">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LxrpM4bdnO878iewmK_O-1" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="259" y="90" width="330" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="LxrpM4bdnO878iewmK_O-2" value="Cadastro costureira" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="276" y="140" width="296" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="Nome:" placeholders="1" name="Variable" id="LxrpM4bdnO878iewmK_O-3">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="276" y="220" width="50" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="LxrpM4bdnO878iewmK_O-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="276" y="250" width="295" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="Telefone:" placeholders="1" name="Variable" id="LxrpM4bdnO878iewmK_O-5">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="273.75" y="300" width="62.5" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="LxrpM4bdnO878iewmK_O-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="276" y="330" width="295" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LxrpM4bdnO878iewmK_O-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="273.75" y="410" width="295" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="Endereço:" placeholders="1" name="Variable" id="LxrpM4bdnO878iewmK_O-8">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="265" y="385" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="LxrpM4bdnO878iewmK_O-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="273.75" y="490" width="295" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="CPF" placeholders="1" name="Variable" id="LxrpM4bdnO878iewmK_O-10">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="276" y="470" width="39.75" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="LxrpM4bdnO878iewmK_O-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LxrpM4bdnO878iewmK_O-12" target="LxrpM4bdnO878iewmK_O-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="623" />
+              <mxPoint x="630" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LxrpM4bdnO878iewmK_O-12" value="SALVAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="348.25" y="595" width="146" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="LxrpM4bdnO878iewmK_O-13" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="657" y="295" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LxrpM4bdnO878iewmK_O-14" value="Tem certeza que deseja salvar ?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LxrpM4bdnO878iewmK_O-13">
+          <mxGeometry x="50" y="10" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LxrpM4bdnO878iewmK_O-15" value="sim" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="LxrpM4bdnO878iewmK_O-13">
+          <mxGeometry x="20" y="80" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LxrpM4bdnO878iewmK_O-16" value="não" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="LxrpM4bdnO878iewmK_O-13">
+          <mxGeometry x="100" y="80" width="60" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
