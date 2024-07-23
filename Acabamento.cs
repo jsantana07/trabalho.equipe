@@ -6,10 +6,9 @@ public class Acabamento : Pessoa
     {
         return CPF;
     }
-    public void SetCPF (string n)
+     public void SetCPF (string n)
     {
-        Nome=n;
+        CPF=cpf;
     }
-
 
 }

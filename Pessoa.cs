@@ -35,7 +35,7 @@ public void GetNome ()
     }
     public void SetID (string i)
     {
-        Nome=n;
+        id=i;
     }
 
 }
