@@ -1,12 +1,14 @@
+namespace Modelos;
 public class Costureira : Pessoa
 {
     string CPF;
+    string CNPJ;
 
-    public void GetCPF ()
+    public string GetCPF ()
     {
         return CPF;
     }
-    public void SetCPF (string n)
+    public void SetCPF (string cnpj)
     {
         CNPJ=cnpj;
     }

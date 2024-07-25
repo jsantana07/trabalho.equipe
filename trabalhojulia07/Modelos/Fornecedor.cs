@@ -1,9 +1,11 @@
+namespace Modelos;
+
 public class Fornecedor : Pessoa
 {
     string CNPJ;
     string email;
 
-    public void GetCNPJ ()
+    public string GetCNPJ ()
     {
         return CNPJ;
     }
@@ -12,7 +14,7 @@ public class Fornecedor : Pessoa
        CNPJ=cnpj;
     }
 
-     public void Getemail ()
+     public string Getemail ()
     {
         return email;
     }

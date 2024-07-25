@@ -1,12 +1,14 @@
+namespace Modelos;
+
 public class Acabamento : Pessoa
 {
     string CPF;
 
-    public void GetCPF ()
+    public string GetCPF ()
     {
         return CPF;
     }
-     public void SetCPF (string n)
+     public void SetCPF (string cpf)
     {
         CPF=cpf;
     }

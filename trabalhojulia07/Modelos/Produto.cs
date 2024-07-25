@@ -1,18 +1,20 @@
+namespace Modelos;
+
 public class Produto : Pessoa
 {
     string codigo;
     string estoque;
 
-    public void GetCPF ()
+    public string Getcodigo ()
     {
-        return CPF;
+        return codigo;
     }
-    public void SetCPF (string cpf)
+    public void Setcodigo (string cod)
     {
-        CPF=cpf;
+        codigo=cod;
     }
 
-     public void Getestoque ()
+     public string Getestoque ()
     {
         return estoque;
     }

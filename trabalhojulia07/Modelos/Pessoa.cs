@@ -1,3 +1,5 @@
+
+namespace Modelos;
 public class Pessoa
 {
  string Nome;
@@ -5,7 +7,7 @@ public class Pessoa
  string telefone;
  int id;
 
-public void GetNome ()
+public string GetNome ()
     {
         return Nome;
     }
@@ -13,7 +15,7 @@ public void GetNome ()
     {
         Nome=n;
     }
-    public void GetEndereço ()
+    public string GetEndereço ()
     {
         return Endereço;
     }
@@ -21,19 +23,19 @@ public void GetNome ()
     {
         Endereço=e;
     }
-    public void GetTelefone ()
+    public string Gettelefone ()
     {
-        return Telefone;
+        return telefone;
     }
-    public void SetTelefone (string t)
+    public void Settelefone (string t)
     {
-        Telefone=t;
+        telefone=t;
     }
-    public void GetId ()
+    public int GetId ()
     {
         return id;
     }
-    public void SetID (string i)
+    public void SetID (int i)
     {
         id=i;
     }
